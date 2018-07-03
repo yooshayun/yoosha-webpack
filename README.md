@@ -1,9 +1,7 @@
 
 
-### Fork It And Make Your Own
-
-You can fork this repo to create your own boilerplate, and use it with `vue-cli`:
+ 创建自己的项目模板使用`vue-cli`:
 
 ``` bash
-vue init username/repo my-project
+vue init yooshayun/yoosha-webpack my-project
 ```
